@@ -1,0 +1,371 @@
+{
+  "sessions": [
+    {
+      "startTime": "2019-05-07T09:00",
+      "endTime": "2019-05-07T10:00",
+      "length": "60",
+      "language": "no",
+      "sessionId": "",
+      "abstract": "",
+      "title": "Registrering og morgenbuffet",
+      "room": "Britannia Hall",
+      "speakers": [
+        {
+          "name": "Sekretariatet",
+          "bio": "",
+          "sessionId": ""
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-07T10:00",
+      "endTime": "2019-05-07T10:15",
+      "length": "15",
+      "language": "no",
+      "sessionId": "D1_A1",
+      "abstract": "Åpning av konferansen",
+      "title": "Velkommen",
+      "room": "Kongressalen",
+      "speakers": [
+        {
+          "name": "Espen A. Fossen",
+          "bio": "Leder av programkomitéen, Sikkerhetssjef i Kantega",
+          "sessionId": "D1_A1"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-07T10:15",
+      "endTime": "2019-05-07T11:45",
+      "length": "45",
+      "language": "no",
+      "sessionId": "D1_A2",
+      "abstract": "",
+      "title": "Keynote",
+      "room": "Kongressalen",
+      "speakers": [
+        {
+          "name": "Per Thorsheim",
+          "bio": "Sikkerhetsjef og passordekspert, Nordic Choice Hotels",
+          "sessionId": "D1_A2"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-07T11:30",
+      "endTime": "2019-05-07T12:00",
+      "length": "30",
+      "language": "no",
+      "sessionId": "D1_A3",
+      "abstract": "",
+      "title": "Personverndirektivet, året etter",
+      "room": "Kongressalen",
+      "speakers": [
+        {
+          "name": "Martha Eike",
+          "bio": "Fagdirektør, Datatilsynet",
+          "sessionId": "D1_A3"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-07T12:00",
+      "endTime": "2019-05-07T12:30",
+      "length": "30",
+      "language": "no",
+      "sessionId": "D1_A4",
+      "abstract": "IKT-sikkerhetsutvalget fikk som oppdrag å vurdere hvorvidt det eksisterende regelverket på IKT-sikkerhetsområdet er godt nok, og om dette ivaretar de nye digitale samfunnsutfordringene. I sin utredning som ble publisert i desember 2018 anbefalte utvalget blant annet at det etableres en ny lov om IKT-sikkerhet for samfunnskritiske virksomheter og offentlig forvaltning.",
+      "title": "IKT-sikkerhet i alle ledd – Organisering og regulering av nasjonal IKT sikkerhet",
+      "room": "Kongressalen",
+      "speakers": [
+        {
+          "name": "Marie Moe",
+          "bio": "Forskningssjef, SINTEF Digital",
+          "sessionId": "D1_A3"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-07T13:30",
+      "endTime": "2019-05-07T14:00",
+      "length": "30",
+      "language": "no",
+      "sessionId": "D1_A5",
+      "abstract": "",
+      "title": "Dok 1 - Svakheter ved informasjonssikkerhet",
+      "room": "Kongressalen",
+      "speakers": [
+        {
+          "name": "Magnhild Kassin",
+          "bio": "Riksrevisjonen",
+          "sessionId": "D1_A5"
+        },
+        {
+          "name": "Kristin Olsen",
+          "bio": "Riksrevisjonen",
+          "sessionId": "D1_A5"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-07T13:30",
+      "endTime": "2019-05-07T14:00",
+      "length": "30",
+      "language": "no",
+      "sessionId": "D1_B1",
+      "abstract": "OWASP Application Security Verification Standard (ASVS) er et rammeverk for sikkerhetskrav og verifikasjon av disse. Sammenlignet med OWASP Top 10, gir ASVS en proaktiv tilnærming til applikasjonssikkerhet, med ulike krav basert på en valgt risikoprofil. Foredraget viser både hvordan ASVS er egnet som pedagogisk mal for sikkerhetskrav til både for kode man utvikler selv, og for applikasjoner som man kjøper fra andre.",
+      "title": "Sikkerhetskrav med OWASP ASVS",
+      "room": "Kinoen",
+      "speakers": [
+        {
+          "name": "Erlend Andreas Gjære",
+          "bio": "Spesialist på sikkerhet og folk, Secure Practice",
+          "sessionId": "D1_B1"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-07T14:00",
+      "endTime": "2019-05-07T14:30",
+      "length": "30",
+      "language": "no",
+      "sessionId": "D1_A6",
+      "abstract": "",
+      "title": "Foredrag kommer",
+      "room": "Kongressalen",
+      "speakers": [
+        {
+          "name": "",
+          "bio": "",
+          "sessionId": "D1_A6"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-07T14:00",
+      "endTime": "2019-05-07T14:30",
+      "length": "30",
+      "language": "en",
+      "sessionId": "D1_B2",
+      "abstract": "",
+      "title": "Hacking av 5G nettet",
+      "room": "Kinoen",
+      "speakers": [
+        {
+          "name": "Ravishankar Borgaonk",
+          "bio": "Forsker, SINTEF Digital",
+          "sessionId": "D1_B2"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-07T14:45",
+      "endTime": "2019-05-07T15:15",
+      "length": "30",
+      "language": "no",
+      "sessionId": "D1_A7",
+      "abstract": "Når det kommer til skytjenester kan du som kunde outsource driften, men ikke eierskapet til risiko. Derfor oppfordres det til tett samarbeid med din skyleverandør. Hvilke sikkerhetstiltak finnes og hva bør du gjøre for å beskytte deg? Camilla Gustafsson tar for seg dagens- og fremtidens trusselbilde, for hvilken risiko er dere egentlig villig til å ta?",
+      "title": "Sikkerhet i skyen - hvilken risiko er dere villig til å ta?",
+      "room": "Kongressalen",
+      "speakers": [
+        {
+          "name": "Camilla Gustafsson",
+          "bio": "Løsningsarkitekt, Basefarm",
+          "sessionId": "D1_A7"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-07T14:45",
+      "endTime": "2019-05-07T15:15",
+      "length": "30",
+      "language": "no",
+      "sessionId": "D1_B3",
+      "abstract": "Cryptojacking er i ferd med å ta over tronen som den største formen for digital vinningskriminalitet. Denne typen angrep låner prosessorkraft og minne fra datamaskiner, mobiltelefoner og IoT-dingser for å grave etter kryptovaluta uten at eierne merker noen ting. Smittefaren er også stor, ettersom skadevaren kan hoppe rett inn i nettleseren når man besøker mange av de mest populære nettsidene i verden.",
+      "title": "You Don’t Know CryptoJack",
+      "room": "Kinoen",
+      "speakers": [
+        {
+          "name": "Per Håkon Meland",
+          "bio": "Seniorforsker, SINTEF Digital",
+          "sessionId": "D1_B3"
+        },
+        {
+          "name": "Bent Heier Johansen",
+          "bio": "Masterstudent, NTNU",
+          "sessionId": "D1_B3"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-07T15:15",
+      "endTime": "2019-05-07T15:45",
+      "length": "30",
+      "language": "no",
+      "sessionId": "D1_A8",
+      "abstract": "DnB flytter hele mobilbankplattformen til skya, Norge har fått en strategi for digital transformasjon som omfavner bruken av skytjenester og sikkerhetsløsninger kan i stadig større grad anskaffes «som-en-tjeneste». Men om skya KAN gi deg langt bedre IT-sikkerhet, økes samtidig fokus på bestillerkompetansen. Lær mer om hva som skal til for å skaffe seg dette, på hvilken måte toneangivende organisasjoner \"tør\" å flytte forretningskritiske applikasjoner til skya og hvordan akkurat DIN bedrift kan skaffe seg tilsvarende forretningsfortrinn – gjennom sikker bruk av skytjenester!",
+      "title": "Sikkerhet er det beste argumentet for å ta i bruk skybaserte tjenester (ikke omvendt)",
+      "room": "Kongressalen",
+      "speakers": [
+        {
+          "name": "Eirik Gulbrandsen",
+          "bio": "Forretningsutvikler i Arrow ECS Norway og leder av Cloud Security Alliance Norway",
+          "sessionId": "D1_A8"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-07T15:15",
+      "endTime": "2019-05-07T15:45",
+      "length": "30",
+      "language": "no",
+      "sessionId": "D1_B4",
+      "abstract": "",
+      "title": "Hvorfor lager folk så dårlige passord? -og hva kan vi gjøre med det?",
+      "room": "Kinoen",
+      "speakers": [
+        {
+          "name": "Cecilie Wian",
+          "bio": "IT Konsulent, Knowit",
+          "sessionId": "D1_B4"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-07T16:15",
+      "endTime": "2019-05-07T16:45",
+      "length": "30",
+      "language": "no",
+      "sessionId": "D1_A9",
+      "abstract": "",
+      "title": "Leverandørsikkerhet",
+      "room": "Kongressalen",
+      "speakers": [
+        {
+          "name": "Tore Orderløkken",
+          "bio": "Sikkerhetsdirektør, Huawei Norge",
+          "sessionId": "D1_A9"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-07T16:45",
+      "endTime": "2019-05-07T17:45",
+      "length": "60",
+      "language": "no",
+      "sessionId": "D1_A10",
+      "abstract": "",
+      "title": "Foredrag kommer",
+      "room": "Kongressalen",
+      "speakers": [
+        {
+          "name": "",
+          "bio": "",
+          "sessionId": "D1_A10"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-08T09:00",
+      "endTime": "2019-05-08T10:00",
+      "length": "60",
+      "language": "no",
+      "sessionId": "D2_1",
+      "abstract": "",
+      "title": "Norske Helsenett; en reise i tid og rom",
+      "room": "Kongressalen",
+      "speakers": [
+        {
+          "name": "Håkon Grimstad",
+          "bio": "Adm. Dir, Norsk Helsenett",
+          "sessionId": "D2_1"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-08T10:15",
+      "endTime": "2019-05-08T10:45",
+      "length": "30",
+      "language": "no",
+      "sessionId": "D2_2",
+      "abstract": "",
+      "title": "Veikart for fremtidig eHelse, strategi og sikkerhet",
+      "room": "Kongressalen",
+      "speakers": [
+        {
+          "name": "Bjarte Aksnes",
+          "bio": "Seniorrådgiver, Direktoratet for e-helse",
+          "sessionId": "D2_2"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-08T10:45",
+      "endTime": "2019-05-08T11:15",
+      "length": "30",
+      "language": "no",
+      "sessionId": "D2_3",
+      "abstract": "",
+      "title": "Felles journalløsning for fastleger, kommuner og helseforetak i Midt Norge",
+      "room": "Kongressalen",
+      "speakers": [
+        {
+          "name": "Øyvind Røset",
+          "bio": "Informasjonssikkerhetsrådgiver, Helse Midt-Norge",
+          "sessionId": "D2_3"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-08T12:15",
+      "endTime": "2019-05-08T13:00",
+      "length": "45",
+      "language": "no",
+      "sessionId": "D2_4",
+      "abstract": "",
+      "title": "Foredrag kommer",
+      "room": "Kongressalen",
+      "speakers": [
+        {
+          "name": "",
+          "bio": "",
+          "sessionId": "D2_4"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-08T13:00",
+      "endTime": "2019-05-08T13:45",
+      "length": "45",
+      "language": "no",
+      "sessionId": "D2_5",
+      "abstract": "",
+      "title": "Foredrag kommer",
+      "room": "Kongressalen",
+      "speakers": [
+        {
+          "name": "",
+          "bio": "",
+          "sessionId": "D2_5"
+        }
+      ]
+    },
+    {
+      "startTime": "2019-05-08T13:45",
+      "endTime": "2019-05-08T14:00",
+      "length": "15",
+      "language": "no",
+      "sessionId": "D2_6",
+      "abstract": "",
+      "title": "Avslutning av konferansen",
+      "room": "Kongressalen",
+      "speakers": [
+        {
+          "name": "Espen A. Fossen",
+          "bio": "Leder av programkomitéen, Sikkerhetssjef i Kantega",
+          "sessionId": "D2_6"
+        }
+      ]
+    }
+  ]
+}
