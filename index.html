@@ -25,7 +25,6 @@
         <link rel="shortcut icon" href="/26c92e7854a00f28bb3a42a2bdb8dd2c.ico">
         <meta name="msapplication-TileColor" content="#da532c">
         <meta name="msapplication-TileImage" content="/f27442c1358a1b11610f81a89528f793.png">
-<!--        <meta name="msapplication-config" content="/cabb9d8b3ebb71b457b519b94fa3ec33.xml">-->
         <meta name="theme-color" content="#ffffff">
         <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
 
@@ -59,13 +58,23 @@
                 }
             }(window.location))
         </script>
-        <!-- End Single Page Apps for GitHub Pages -->
-
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137990578-1"></script>
+        <script>
+            var host = window.location.hostname;
+            if(host === "2019.soskonf.no")
+            {
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', 'UA-137990578-1', { 'anonymize_ip': true });
+            }
+        </script>
 
     <link href="/app.css" rel="stylesheet"></head>
     <body>
         <div id="app"></div>
-    <script type="text/javascript" src="/56402782fddd71fc6fce.js"></script></body>
+    <script type="text/javascript" src="/d0413913303f328d4b03.js"></script></body>
 
 
 </html>
